@@ -1,0 +1,168 @@
+
+.attribution
+ { 
+font-size:16px; 
+text-align: center;
+color: hsl(228, 45%, 44%); 
+font-weight:400;
+ }
+    
+
+.title-image
+{
+width:150px;
+padding-top:2.5%;
+margin-right:950px;
+padding-bottom:10%;
+}
+.button
+{
+background-color: white; /* Green */
+  border:1px solid #ff4c68;
+  margin-top:-6%;
+  color: #ff4c68;
+  text-align: center;
+  font-size: 13px;
+  border-radius:40px;
+  width:100px;
+}
+.button:hover
+{
+background-color:#ff4c68;
+color:black;
+font-size:13px;
+}
+.title-part
+{
+text-align:center;
+}
+.title-heading
+{
+font-weight:bold;
+}
+.title-para
+{
+font-size:15px;
+width:70%;
+margin-left:220px;
+margin-right:400px;
+padding:1%;
+}
+.title-button
+{
+background-color:#ff4c68;
+border:1px solid black;
+margin-top:-1%;
+color:#fff;
+width:250px;
+border-radius:50px;
+padding:1%;
+}
+#images
+{
+text-align:center;
+padding:5%;
+}
+.k
+{
+width:25px;
+float:left;
+position:relative;
+padding-bottom:40px;
+}
+.img
+{
+padding-left:30%;
+width:200px;
+
+}
+.heading
+{
+font-size:50px;
+font-weight:450;
+padding-left:30%;
+}
+.para
+{
+color:gray;
+font-size:15px;
+padding-left:27%;
+padding-top:-2%;
+}
+.para1
+{
+color:hsl(228, 45%, 44%);
+font-size:15px;
+padding-left:33%;
+}
+#grow-together
+{ padding:20%;
+background-image: url("bg-section-top-desktop-2.svg"),url("bg-section-bottom-desktop-2.svg");
+background-position: left top,left bottom;
+background-repeat: no-repeat,no-repeat;
+background-size:1370px 350px,1370px 340px;
+background-clip:margin-box;
+max-height:800px;
+
+}
+
+.grow-head
+{
+padding-top:10%;
+padding-left:-7%;
+}
+.grow-para
+{
+font-size:13px;
+}
+.grow
+{
+width:370px;
+padding-left:15%;
+}
+#your-users
+{
+padding:15%;
+background-image: url("bg-section-top-desktop-2.svg"),url("bg-section-bottom-desktop-2.svg");
+background-position: left top,left bottom;
+background-repeat: no-repeat,no-repeat;
+background-size:1370px 350px,1370px 340px;
+background-clip:margin-box;
+max-height:800px;
+
+ 
+}
+#ready
+{
+text-align:center;
+}
+.rbtn{
+padding-top:3%
+}
+#end
+{
+padding-top:20%;
+padding-left:2%;
+padding-bottom:10%;
+background-image: url("bg-section-top-desktop-2.svg"),url("bg-section-bottom-desktop-2.svg");
+background-position: left top,left bottom;
+background-repeat: no-repeat,no-repeat;
+background-size:1370px 350px,1370px 380px;
+background-clip:margin-box;
+max-height:800px;
+
+}
+.end-image
+{
+width:150px;
+}
+.end-para
+{
+padding-top:4%;
+font-size:13px;
+}
+.f-social
+{
+paddding-top:5%;
+padding-left:8%;
+}
